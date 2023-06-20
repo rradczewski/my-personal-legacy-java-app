@@ -33,7 +33,7 @@
         <openapi-generator.version>6.2.0</openapi-generator.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
         <org.apache.commons.commons-collections4.version>4.4</org.apache.commons.commons-collections4.version>
-        <jacoco.version>0.8.8</jacoco.version>
+        <jacoco.version>0.8.10</jacoco.version>
         <testcontainers.version>1.17.5</testcontainers.version>
         <bouncy-castle.version>1.70</bouncy-castle.version>
         <google-java-format.version>1.12.0</google-java-format.version>
