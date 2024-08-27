@@ -25,7 +25,7 @@
         <spotless.version>2.22.5</spotless.version>
         <spotbugs.version>4.8.6.2</spotbugs.version>
         <findsecbugs.version>1.13.0</findsecbugs.version>
-        <pmd.version>3.24.0</pmd.version>
+        <pmd.version>3.25.0</pmd.version>
         <checkstyle-plugin.version>3.5.0</checkstyle-plugin.version>
         <checkstyle.version>10.18.0</checkstyle.version>
         <jacoco.report.output.directory>${project.build.directory}/jacoco-reports</jacoco.report.output.directory>
