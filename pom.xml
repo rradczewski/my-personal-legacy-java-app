@@ -27,7 +27,7 @@
         <findsecbugs.version>1.13.0</findsecbugs.version>
         <pmd.version>3.26.0</pmd.version>
         <checkstyle-plugin.version>3.6.0</checkstyle-plugin.version>
-        <checkstyle.version>10.20.0</checkstyle.version>
+        <checkstyle.version>10.20.1</checkstyle.version>
         <jacoco.report.output.directory>${project.build.directory}/jacoco-reports</jacoco.report.output.directory>
         <sonar-maven-plugin.version>3.9.1.2184</sonar-maven-plugin.version>
         <openapi-generator.version>7.9.0</openapi-generator.version>
