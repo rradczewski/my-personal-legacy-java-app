@@ -24,7 +24,7 @@
         <jjwt.version>0.12.6</jjwt.version>
         <spotless.version>2.22.5</spotless.version>
         <spotbugs.version>4.9.3.0</spotbugs.version>
-        <findsecbugs.version>1.13.0</findsecbugs.version>
+        <findsecbugs.version>1.14.0</findsecbugs.version>
         <pmd.version>3.26.0</pmd.version>
         <checkstyle-plugin.version>3.6.0</checkstyle-plugin.version>
         <checkstyle.version>10.23.0</checkstyle.version>
