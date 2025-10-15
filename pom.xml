@@ -23,7 +23,7 @@
         <surefire-plugin.version>3.0.0-M6</surefire-plugin.version>
         <jjwt.version>0.13.0</jjwt.version>
         <spotless.version>2.22.5</spotless.version>
-        <spotbugs.version>4.9.6.0</spotbugs.version>
+        <spotbugs.version>4.9.7.0</spotbugs.version>
         <findsecbugs.version>1.14.0</findsecbugs.version>
         <pmd.version>3.28.0</pmd.version>
         <checkstyle-plugin.version>3.6.0</checkstyle-plugin.version>
